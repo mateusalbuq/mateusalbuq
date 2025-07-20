@@ -49,4 +49,4 @@ Built scalable data pipelines, clean architectures, and data workflows across in
 
 ## 📫 Let’s Connect!
 
-Feel free to explore my projects, star what you like, or connect with me on LinkedIn https://www.linkedin.com/in/mateus-vasconcelos-albuquerque/
+Feel free to explore my projects, star what you like, or connect with me on LinkedIn https://www.linkedin.com/in/mateusalbuq
