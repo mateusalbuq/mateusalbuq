@@ -25,16 +25,15 @@ Built scalable data pipelines, clean architectures, and data workflows across in
 
 ## 🌱 I'm Currently Learning
 
-- Diving into **Machine Learning in Production** with the fantastic *Designing Machine Learning Systems* by Chip Huyen.  
-  Because shipping notebooks ≠ shipping products 🚢📦
+- Diving into **Machine Learning in Production** with the fantastic *Designing Machine Learning Systems* by Chip Huyen 🚢📦.
 
 ---
 
 ## 🧰 Tools & Skills
 
 - Languages: **Python**, **SQL**
-- Platforms: **AWS**, **GCP**, **Azure OpenAI Service**
-- Libraries & Frameworks: **scikit-learn**, **pandas**, **TensorFlow**, **Airflow**
+- Platforms: **AWS**, **GCP**, **Azure (AI Foundry)**
+- Libraries & Frameworks: scikit-learn, TensorFlow, Git, GitHub Actions, CloudRun, BigQuery, Databricks, PostgreSQL, Metabase, PowerBI, Flask, Airflow, Docker.
 
 ---
 
